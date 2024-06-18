@@ -1,0 +1,7 @@
+.Price {
+    display: block;
+    background-color: #e0c367;
+    width: 200px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
